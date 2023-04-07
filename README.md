@@ -12,4 +12,4 @@ Deployed this using GitHub pages. [Go to site](https://harshh18.github.io/Portfo
 
 * Thanks to GDSC community for this awesome bootcamp.
 * Hat tip to people on YouTube and Stack Overflow.
-* etc
+* All love to ☕
